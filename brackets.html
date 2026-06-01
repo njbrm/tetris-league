@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>TTL Bracket Viewer</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: #0a0a18;
+    color: #fff;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    font-size: 12px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* ── Header ── */
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 24px;
+    background: #0d0d20;
+    border-bottom: 1px solid #1e1e35;
+    flex-shrink: 0;
+    gap: 12px;
+  }
+  .logo {
+    font-size: 26px;
+    font-weight: 700;
+    color: #00d4ff;
+    letter-spacing: 2px;
+    white-space: nowrap;
+  }
+  .nav {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex: 1;
+    justify-content: center;
+  }
+  .nav button {
+    background: #1a1a30;
+    border: 1px solid #2a2a45;
+    color: #fff;
+    padding: 6px 14px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 28px;
+    transition: all 0.15s;
+  }
+  .nav button:hover { background: #252540; color: #fff; }
+  .nav button:disabled { opacity: 0.3; cursor: default; }
+  #tournament-info {
+    text-align: center;
+    min-width: 180px;
+  }
+  #tournament-name {
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff;
+  }
+  #tournament-meta {
+    font-size: 20px;
+    color: #fff;
+    margin-top: 2px;
+    letter-spacing: 1px;
+  }
+  select {
+    background: #1a1a30;
+    border: 1px solid #2a2a45;
+    color: #fff;
+    padding: 10px 16px;
+    border-radius: 6px;
+    font-size: 24px;
+    cursor: pointer;
+    max-width: 400px;
+  }
+  select:focus { outline: none; border-color: #00d4ff; }
+
+  /* ── Winner banner ── */
+  #winner-banner {
+    text-align: center;
+    padding: 18px;
+    font-size: 33px;
+    letter-spacing: 1px;
+    background: linear-gradient(90deg, transparent, rgba(255,215,0,0.08), transparent);
+    color: #ffd700;
+    border-bottom: 1px solid #1e1e35;
+    flex-shrink: 0;
+  }
+
+  /* ── Main layout ── */
+  #main {
+    display: flex;
+    flex: 1;
+    overflow-x: auto;
+    padding: 20px 16px;
+    gap: 24px;
+    align-items: flex-start;
+  }
+
+  .bracket-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 0;
+    flex: 1;
+  }
+
+  .bracket-col-title {
+    font-size: 30px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: 14px;
+    font-weight: 600;
+  }
+  #winners-col .bracket-col-title { color: #1a6640; }
+  #losers-col  .bracket-col-title { color: #6a1a1a; }
+
+  .divider {
+    width: 1px;
+    background: #1e1e35;
+    align-self: stretch;
+    flex-shrink: 0;
+    margin-top: 34px;
+  }
+
+  /* ── Bracket rounds ── */
+  .bracket-rounds {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    width: 100%;
+    position: relative;
+  }
+
+  .round-block {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    width: 100%;
+  }
+
+  .round-label {
+    text-align: center;
+    font-size: 9px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: 6px;
+    padding: 0 4px;
+  }
+
+  .round-matches {
+    display: flex;
+    justify-content: space-around;
+    gap: 8px;
+    padding: 0 4px;
+  }
+
+  /* ── Match card ── */
+  .match-card {
+    background: #121225;
+    border: 1px solid #1e1e35;
+    border-radius: 7px;
+    overflow: hidden;
+    min-width: 120px;
+    flex: 1;
+    max-width: 180px;
+    transition: border-color 0.2s;
+    cursor: default;
+  }
+  .match-card:hover { border-color: #2a2a55; }
+
+  .player {
+    padding: 5px 9px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    border-bottom: 1px solid #1a1a30;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.3;
+  }
+  .player:last-child { border-bottom: none; }
+
+  .player.winner {
+    background: #0d2218;
+    color: #4cff91;
+    font-weight: 600;
+  }
+  .player.loser {
+    color: #fff;
+  }
+  .player.winner::before { content: '▸'; font-size: 8px; color: #4cff91; flex-shrink: 0; }
+  .player.loser::before  { content: ' '; font-size: 8px; flex-shrink: 0; }
+
+  /* grand finals winner */
+  .grand-finals .match-card {
+    border-color: #3a3010;
+    min-width: 270px;
+    max-width: 405px;
+  }
+  .grand-finals .player {
+    padding: 12px 21px;
+    font-size: 27px;
+  }
+  .grand-finals .player.winner {
+    background: #2a2000;
+    color: #ffd700;
+  }
+  .grand-finals .player.winner::before { color: #ffd700; font-size: 18px; }
+  .grand-finals .player.loser::before  { font-size: 18px; }
+
+  /* ── SVG connectors ── */
+  .connector-svg {
+    width: 100%;
+    display: block;
+    overflow: visible;
+    flex-shrink: 0;
+  }
+
+  /* ── Empty state ── */
+  .empty-bracket {
+    color: #fff;
+    font-size: 11px;
+    padding: 20px;
+    text-align: center;
+  }
+
+  /* ── Facts section ── */
+  #facts-section {
+    max-width: 860px;
+    margin: 32px auto 48px;
+    padding: 0 24px;
+  }
+  #facts-section h2 {
+    font-size: 13px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #00d4ff;
+    margin-bottom: 16px;
+    font-weight: 600;
+  }
+  .fact-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 14px 18px;
+    background: #0d0d20;
+    border: 1px solid #1e1e35;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #fff;
+  }
+  .fact-icon {
+    font-size: 18px;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+
+  /* ── Scrollbar ── */
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { background: #0a0a18; }
+  ::-webkit-scrollbar-thumb { background: #1e1e35; border-radius: 3px; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">🎮 Tetris League</div>
+  <div class="nav">
+    <button id="prev-btn" disabled>◀</button>
+    <div id="tournament-info">
+      <div id="tournament-name">Loading…</div>
+      <div id="tournament-meta"></div>
+    </div>
+    <button id="next-btn">▶</button>
+  </div>
+  <select id="tournament-select"></select>
+</header>
+
+<div id="winner-banner">Loading…</div>
+
+<div id="main">
+  <div class="bracket-col" id="winners-col">
+    <div class="bracket-col-title">🏆 Winners Bracket</div>
+    <div class="bracket-rounds" id="winners-rounds"></div>
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="bracket-col" id="losers-col">
+    <div class="bracket-col-title">💀 Losers Bracket</div>
+    <div class="bracket-rounds" id="losers-rounds"></div>
+  </div>
+</div>
+
+<div id="facts-section"></div>
+
+<script>
+const ROUND_ORDER_W = ['round_1','round_2','round_3','round_4','round_5','round_6','round_7','winners_finals','grand_finals'];
+const ROUND_ORDER_L = ['round_1','round_2','round_3','round_4','round_5','round_6','round_7','round_8','losers_semifinals','losers_finals'];
+
+const ROUND_LABELS = {
+  round_1:'Round 1', round_2:'Round 2', round_3:'Round 3', round_4:'Round 4',
+  round_5:'Round 5', round_6:'Round 6', round_7:'Round 7', round_8:'Round 8',
+  winners_finals:'Winners Finals', grand_finals:'Grand Finals',
+  losers_semifinals:'Losers Semis', losers_finals:'Losers Finals',
+};
+
+let tournaments = [];
+let current = 0;
+
+// "2026_April" -> "April 2026"
+function formatId(id) {
+  const m = id.match(/^(\d{4})_(.+)$/);
+  return m ? `${m[2]} ${m[1]}` : id;
+}
+
+function navigate(delta) {
+  const next = current + delta;
+  if (next >= 0 && next < tournaments.length) {
+    current = next;
+    render();
+  }
+}
+
+async function load() {
+  const res = await fetch('./data/ttl_results.json');
+  tournaments = await res.json();
+  current = 0; // default to first in JSON (most recent)
+
+  // Populate dropdown in JSON order
+  const sel = document.getElementById('tournament-select');
+  tournaments.forEach((t, i) => {
+    const opt = document.createElement('option');
+    opt.value = i;
+    opt.textContent = formatId(t.tournament_id);
+    sel.appendChild(opt);
+  });
+
+  sel.value = current; // force default before browser can restore a cached value
+  sel.addEventListener('change', e => { current = +e.target.value; render(); });
+  document.getElementById('prev-btn').addEventListener('click', () => navigate(+1)); // back in time = higher index
+  document.getElementById('next-btn').addEventListener('click', () => navigate(-1)); // forward in time = lower index
+
+  render();
+}
+
+function sortRounds(keys, order) {
+  return [...keys].sort((a, b) => {
+    const ai = order.indexOf(a), bi = order.indexOf(b);
+    return (ai === -1 ? 99 : ai) - (bi === -1 ? 99 : bi);
+  });
+}
+
+function getFinalWinner(t) {
+  const gf = t.bracket.winners_bracket?.grand_finals;
+  if (gf?.length) return gf[gf.length-1].winner;
+  const wf = t.bracket.winners_bracket?.winners_finals;
+  if (wf?.length) return wf[wf.length-1].winner;
+  return null;
+}
+
+function renderBracket(bracket, containerId, roundOrder, isGrandFinals) {
+  const container = document.getElementById(containerId);
+  container.innerHTML = '';
+  if (!bracket || !Object.keys(bracket).length) {
+    container.innerHTML = '<div class="empty-bracket">No data</div>';
+    return;
+  }
+
+  const rounds = sortRounds(Object.keys(bracket), roundOrder);
+
+  rounds.forEach((roundName, ri) => {
+    const matches = bracket[roundName];
+    if (!matches?.length) return;
+
+    const isGF = roundName === 'grand_finals';
+
+    // Round label
+    const label = document.createElement('div');
+    label.className = 'round-label';
+    label.textContent = ROUND_LABELS[roundName] || roundName.replace(/_/g,' ');
+
+    // Matches row
+    const row = document.createElement('div');
+    row.className = 'round-matches' + (isGF ? ' grand-finals' : '');
+    row.dataset.round = roundName;
+
+    matches.forEach(match => {
+      const card = document.createElement('div');
+      card.className = 'match-card';
+
+      const wp = document.createElement('div');
+      wp.className = 'player winner';
+      wp.textContent = match.winner || '—';
+      wp.title = match.winner || '';
+
+      const lp = document.createElement('div');
+      lp.className = 'player loser';
+      lp.textContent = match.loser || '—';
+      lp.title = match.loser || '';
+
+      card.appendChild(wp);
+      card.appendChild(lp);
+      row.appendChild(card);
+    });
+
+    const block = document.createElement('div');
+    block.className = 'round-block';
+    block.appendChild(label);
+    block.appendChild(row);
+    container.appendChild(block);
+
+    // SVG connector gap (except after last round)
+    if (ri < rounds.length - 1) {
+      const svg = document.createElement('div');
+      svg.className = 'connector-gap';
+      svg.dataset.fromRound = roundName;
+      svg.dataset.toRound = rounds[ri + 1];
+      svg.style.height = '28px';
+      svg.style.position = 'relative';
+      container.appendChild(svg);
+    }
+  });
+
+  // Draw connectors after layout
+  requestAnimationFrame(() => drawConnectors(container, bracket, rounds));
+}
+
+function drawConnectors(container, bracket, rounds) {
+  const gaps = container.querySelectorAll('.connector-gap');
+  gaps.forEach(gap => {
+    const fromRound = gap.dataset.fromRound;
+    const toRound   = gap.dataset.toRound;
+    const fromRow   = container.querySelector(`.round-matches[data-round="${fromRound}"]`);
+    const toRow     = container.querySelector(`.round-matches[data-round="${toRound}"]`);
+    if (!fromRow || !toRow) return;
+
+    const fromCards = [...fromRow.querySelectorAll('.match-card')];
+    const toCards   = [...toRow.querySelectorAll('.match-card')];
+    if (!fromCards.length || !toCards.length) return;
+
+    const gapRect = gap.getBoundingClientRect();
+    if (gapRect.width < 1) return;
+
+    const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+    svg.setAttribute('width', gapRect.width);
+    svg.setAttribute('height', 28);
+    svg.style.position = 'absolute';
+    svg.style.top = '0';
+    svg.style.left = '0';
+    svg.style.overflow = 'visible';
+    svg.style.pointerEvents = 'none';
+
+    const color = '#1e2040';
+
+    // Draw connector from each fromCard to its corresponding toCard
+    // Pair: floor(i/2) for standard bracket; or 1:1 if counts match
+    const ratio = fromCards.length / toCards.length;
+
+    toCards.forEach((toCard, ti) => {
+      const toRect  = toCard.getBoundingClientRect();
+      const toX = toRect.left + toRect.width / 2 - gapRect.left;
+      const toY = 28;
+
+      if (ratio <= 1) {
+        // 1:1 mapping
+        const fromCard = fromCards[ti];
+        if (!fromCard) return;
+        const fromRect = fromCard.getBoundingClientRect();
+        const fromX = fromRect.left + fromRect.width / 2 - gapRect.left;
+        const path = document.createElementNS('http://www.w3.org/2000/svg','path');
+        path.setAttribute('d', `M${fromX},0 C${fromX},14 ${toX},14 ${toX},28`);
+        path.setAttribute('stroke', color);
+        path.setAttribute('stroke-width', '1.5');
+        path.setAttribute('fill', 'none');
+        svg.appendChild(path);
+      } else {
+        // 2:1 mapping (or more)
+        const startIdx = ti * Math.round(ratio);
+        const endIdx   = startIdx + Math.round(ratio) - 1;
+        const subset = fromCards.slice(startIdx, endIdx + 1);
+        if (!subset.length) return;
+
+        const xs = subset.map(c => {
+          const r = c.getBoundingClientRect();
+          return r.left + r.width/2 - gapRect.left;
+        });
+
+        const midX = (Math.min(...xs) + Math.max(...xs)) / 2;
+        const midY = 14;
+
+        // Vertical lines from each fromCard down to midY
+        xs.forEach(fromX => {
+          const path = document.createElementNS('http://www.w3.org/2000/svg','path');
+          path.setAttribute('d', `M${fromX},0 L${fromX},${midY}`);
+          path.setAttribute('stroke', color);
+          path.setAttribute('stroke-width', '1.5');
+          path.setAttribute('fill', 'none');
+          svg.appendChild(path);
+        });
+
+        // Horizontal line connecting them at midY
+        if (xs.length > 1) {
+          const line = document.createElementNS('http://www.w3.org/2000/svg','line');
+          line.setAttribute('x1', Math.min(...xs));
+          line.setAttribute('y1', midY);
+          line.setAttribute('x2', Math.max(...xs));
+          line.setAttribute('y2', midY);
+          line.setAttribute('stroke', color);
+          line.setAttribute('stroke-width', '1.5');
+          svg.appendChild(line);
+        }
+
+        // Vertical line from midX,midY down to toCard
+        const path2 = document.createElementNS('http://www.w3.org/2000/svg','path');
+        path2.setAttribute('d', `M${midX},${midY} L${toX},${toY}`);
+        path2.setAttribute('stroke', color);
+        path2.setAttribute('stroke-width', '1.5');
+        path2.setAttribute('fill', 'none');
+        svg.appendChild(path2);
+      }
+    });
+
+    gap.appendChild(svg);
+  });
+}
+
+// ── Interesting facts ─────────────────────────────────────────────────────
+
+function allMatches(bracket) {
+  const matches = [];
+  for (const section of Object.values(bracket || {})) {
+    for (const m of (Array.isArray(section) ? section : [])) {
+      if (m.winner && m.loser) matches.push(m);
+    }
+  }
+  return matches;
+}
+
+function generateFacts(t) {
+  const wb = t.bracket.winners_bracket || {};
+  const lb = t.bracket.losers_bracket  || {};
+  const wMatches = allMatches(wb);
+  const lMatches = allMatches(lb);
+  const allM     = [...wMatches, ...lMatches];
+
+  const champion = getFinalWinner(t);
+  const facts = [];
+
+  // ── Unique players
+  const players = new Set();
+  allM.forEach(m => { players.add(m.winner); players.add(m.loser); });
+  const playerCount = players.size;
+
+  // ── Did champion come from losers bracket?
+  const wbLosers = new Set(wMatches.map(m => m.loser));
+  if (champion && wbLosers.has(champion)) {
+    // Find which WB round they lost in
+    let dropRound = null;
+    for (const [rnd, ms] of Object.entries(wb)) {
+      if ((ms || []).some(m => m.loser === champion)) { dropRound = rnd; break; }
+    }
+    const rLabel = dropRound ? (ROUND_LABELS[dropRound] || dropRound.replace(/_/g,' ')) : 'an early round';
+    facts.push({ icon: '🔄', text: `${champion} came from the losers bracket to win, having dropped to losers after ${rLabel}.` });
+  }
+
+  // ── Rematches (same pair met more than once)
+  const pairCount = {};
+  allM.forEach(m => {
+    const key = [m.winner, m.loser].sort().join(' vs ');
+    pairCount[key] = (pairCount[key] || 0) + 1;
+  });
+  const rematches = Object.entries(pairCount).filter(([,c]) => c > 1);
+  rematches.forEach(([pair, count]) => {
+    facts.push({ icon: '⚔️', text: `${pair} faced each other ${count} times in this tournament.` });
+  });
+
+  // ── Grand finals rematch?
+  const gfRounds = wb.grand_finals || wb.winners_finals || [];
+  if (gfRounds.length) {
+    const gfMatch = gfRounds[gfRounds.length - 1];
+    const gfPair = [gfMatch.winner, gfMatch.loser].sort().join(' vs ');
+    // Did they meet before the final?
+    const priorCount = allM.slice(0, allM.lastIndexOf(gfMatch)).filter(m =>
+      [m.winner, m.loser].sort().join(' vs ') === gfPair
+    ).length;
+    if (priorCount > 0 && !rematches.find(([p]) => p === gfPair)) {
+      facts.push({ icon: '🔁', text: `The grand final was a rematch — ${gfPair} had already met earlier in the bracket.` });
+    }
+  }
+
+  // ── Perfect run through winners bracket (no losses)
+  if (champion) {
+    const lostInWB = wbLosers.has(champion);
+    const lostInLB = lMatches.some(m => m.loser === champion);
+    if (!lostInWB && !lostInLB) {
+      facts.push({ icon: '🌟', text: `${champion} ran the table — won every single match without a loss.` });
+    }
+  }
+
+  // ── Closest losers bracket path (most matches played)
+  const matchCount = {};
+  allM.forEach(m => {
+    matchCount[m.winner] = (matchCount[m.winner] || 0) + 1;
+    matchCount[m.loser]  = (matchCount[m.loser]  || 0) + 1;
+  });
+  const [deepestPlayer, deepestCount] = Object.entries(matchCount)
+    .sort((a,b) => b[1]-a[1])[0] || [];
+  if (deepestPlayer && deepestCount >= 4) {
+    facts.push({ icon: '💪', text: `${deepestPlayer} played the most matches (${deepestCount}) — a marathon run through the bracket.` });
+  }
+
+  // Always include player count first, then up to 2 interesting facts
+  const pinned = { icon: '👥', text: `${playerCount} players competed across ${allM.length} total matches.` };
+  return [pinned, ...facts.slice(0, 3)];
+}
+
+function renderFacts(t) {
+  const section = document.getElementById('facts-section');
+  const facts = generateFacts(t);
+  if (!facts.length) { section.innerHTML = ''; return; }
+  section.innerHTML = '<h2>✨ Tournament Highlights</h2>' +
+    facts.map(f => `<div class="fact-item"><span class="fact-icon">${f.icon}</span><span>${f.text}</span></div>`).join('');
+}
+
+function render() {
+  const t = tournaments[current];
+  const sel = document.getElementById('tournament-select');
+  sel.value = current;
+
+  document.getElementById('tournament-name').textContent = formatId(t.tournament_id);
+  document.getElementById('tournament-meta').textContent =
+    `${current + 1} of ${tournaments.length}`;
+
+  const winner = getFinalWinner(t);
+  document.getElementById('winner-banner').textContent =
+    winner ? `🏆  Champion: ${winner}` : '';
+
+  document.getElementById('prev-btn').disabled = current >= tournaments.length - 1; // no older tournaments
+  document.getElementById('next-btn').disabled = current <= 0; // no newer tournaments
+
+  renderBracket(t.bracket.winners_bracket, 'winners-rounds', ROUND_ORDER_W, true);
+  renderBracket(t.bracket.losers_bracket,  'losers-rounds',  ROUND_ORDER_L, false);
+  renderFacts(t);
+}
+
+document.addEventListener('keydown', e => {
+  if (e.key === 'ArrowLeft')  navigate(+1); // back in time
+  if (e.key === 'ArrowRight') navigate(-1); // forward in time
+});
+
+load();
+</script>
+</body>
+</html>

@@ -1,0 +1,8882 @@
+[
+  {
+    "tournament_id": "2026_May",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Crazy Cat Person",
+            "loser": "Xavier"
+          },
+          {
+            "winner": "Lady Zorn",
+            "loser": "Sarah"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Brad the First"
+          },
+          {
+            "winner": "Corey",
+            "loser": "Keller"
+          },
+          {
+            "winner": "Frederick",
+            "loser": "Kimmy"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Crazy Cat Person",
+            "loser": "Aqua"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Lady Zorn",
+            "loser": "Bort"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Corey"
+          },
+          {
+            "winner": "7th Ace",
+            "loser": "Ryan"
+          },
+          {
+            "winner": "Default",
+            "loser": "Frederick"
+          },
+          {
+            "winner": "Bennett",
+            "loser": "Remy"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Blood",
+            "loser": "Crazy Cat Person"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Lady Zorn"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "7th Ace"
+          },
+          {
+            "winner": "Default",
+            "loser": "Bennett"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Blood",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Default",
+            "loser": "Zorn"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Default"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Neil",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Blood"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "round_1": [
+          {
+            "winner": "Xavier",
+            "loser": "Remy"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Sarah"
+          },
+          {
+            "winner": "Brad the First",
+            "loser": "Corey"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Keller"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Kimmy"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Xavier",
+            "loser": "Frederick"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Brad the First"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Bort"
+          },
+          {
+            "winner": "Aqua",
+            "loser": "Jill"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Lady Zorn",
+            "loser": "Xavier"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Crazy Cat Person"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Bennett"
+          },
+          {
+            "winner": "7th Ace",
+            "loser": "Aqua"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Ryan",
+            "loser": "Lady Zorn"
+          },
+          {
+            "winner": "7th Ace",
+            "loser": "Marc"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Ryan",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Neil",
+            "loser": "7th Ace"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Neil",
+            "loser": "Ryan"
+          }
+        ],
+        "losers_finals": [
+          {
+            "winner": "Neil",
+            "loser": "Default"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2026_April",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Brandon",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Josh",
+            "loser": "Jensen"
+          },
+          {
+            "winner": "Lady Zorn",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Neil",
+            "loser": "7thAce"
+          },
+          {
+            "winner": "Autumn T",
+            "loser": "Disaster Chick"
+          },
+          {
+            "winner": "Brett",
+            "loser": "Jake"
+          },
+          {
+            "winner": "Jill",
+            "loser": "The Shadow"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Brandon",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Lady Zorn",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Autumn T"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Brett"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Brandon",
+            "loser": "Lady Zorn"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Jill"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Brandon",
+            "loser": "Neil"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Neil",
+            "loser": "Brandon"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Brandon"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Neil",
+            "loser": "Jill"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Jill",
+            "loser": "Lady Zorn"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Lady Zorn",
+            "loser": "Jensen"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Blood"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Jensen",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Blood",
+            "loser": "7thAce"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Zorn",
+            "loser": "Brett"
+          },
+          {
+            "winner": "Jensen",
+            "loser": "Autumn T"
+          },
+          {
+            "winner": "7thAce",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Blood",
+            "loser": "The Shadow"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Jensen",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "7thAce",
+            "loser": "Disaster Chick"
+          },
+          {
+            "winner": "The Shadow",
+            "loser": "Jake"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2026_March",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "7thAce",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Brandon",
+            "loser": "Agatha* Gone"
+          },
+          {
+            "winner": "Roz",
+            "loser": "Ricky"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Lady Zorn",
+            "loser": "7thAce"
+          },
+          {
+            "winner": "Basil Soup",
+            "loser": "Ethan"
+          },
+          {
+            "winner": "Default",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Malcolm",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Brandon"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Roz",
+            "loser": "Bort"
+          },
+          {
+            "winner": "Xavier",
+            "loser": "Emily* Gone"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Lady Zorn",
+            "loser": "Basil Soup"
+          },
+          {
+            "winner": "Default",
+            "loser": "Malcolm"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Roz",
+            "loser": "Xavier"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Default",
+            "loser": "Lady Zorn"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Roz"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Default"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Roz"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Roz",
+            "loser": "Default"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Roz",
+            "loser": "Zorn"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Roz",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Lady Zorn"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Jill",
+            "loser": "Brandon"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "7thAce"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Jill",
+            "loser": "Malcolm"
+          },
+          {
+            "winner": "Brandon",
+            "loser": "Basil Soup"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Xavier"
+          },
+          {
+            "winner": "7thAce",
+            "loser": "Neil"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Jill",
+            "loser": "Bort"
+          },
+          {
+            "winner": "Brandon",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "7thAce",
+            "loser": "Ethan"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Jill",
+            "loser": "Emily* Gone"
+          },
+          {
+            "winner": "Kimmy",
+            "loser": "Agatha* Gone"
+          },
+          {
+            "winner": "Ethan",
+            "loser": "Ricky"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2026_February",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Ben",
+            "loser": "River"
+          },
+          {
+            "winner": "Lady Zorn",
+            "loser": "Fran Jean"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Corporate Marc",
+            "loser": "Ben"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Brian"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Aqua"
+          },
+          {
+            "winner": "Josh",
+            "loser": "Corey"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Lady Zorn"
+          },
+          {
+            "winner": "7thAce",
+            "loser": "Default"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Blood"
+          },
+          {
+            "winner": "RyeRye",
+            "loser": "Kimmy"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Corporate Marc",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Josh"
+          },
+          {
+            "winner": "7thAce",
+            "loser": "Jenni"
+          },
+          {
+            "winner": "Neil",
+            "loser": "RyeRye"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Zorn",
+            "loser": "Corporate Marc"
+          },
+          {
+            "winner": "Neil",
+            "loser": "7thAce"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Neil"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Neil",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Zorn"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Neil",
+            "loser": "Jenni"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Jenni",
+            "loser": "Default"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Default",
+            "loser": "7thAce"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Corporate Marc"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Default",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "RyeRye"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Blood",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Default",
+            "loser": "Jill"
+          },
+          {
+            "winner": "RyeRye",
+            "loser": "Fran Jean"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Ben"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Blood",
+            "loser": "River"
+          },
+          {
+            "winner": "Default",
+            "loser": "Lady Zorn"
+          },
+          {
+            "winner": "Fran Jean",
+            "loser": "Aqua"
+          },
+          {
+            "winner": "Ben",
+            "loser": "Brian"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "River",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Fran Jean",
+            "loser": "Corey"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2026_January",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "7thAce",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Rain"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Zack"
+          },
+          {
+            "winner": "Sarah",
+            "loser": "Lady Zorn"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Alan"
+          },
+          {
+            "winner": "Ben",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Blood",
+            "loser": "David"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "7thAce",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Sarah"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Ben"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Ryan",
+            "loser": "7thAce"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Neil"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Ryan",
+            "loser": "Blood"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Ryan",
+            "loser": "Neil"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Neil",
+            "loser": "Blood"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Neil",
+            "loser": "Zorn"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Zorn",
+            "loser": "7thAce"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Marc"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Zorn",
+            "loser": "Zack"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Jill"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Zorn",
+            "loser": "Ben"
+          },
+          {
+            "winner": "Zack",
+            "loser": "Sarah"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Lady Zorn"
+          },
+          {
+            "winner": "Marc",
+            "loser": "David"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Zack",
+            "loser": "Rain"
+          },
+          {
+            "winner": "Lady Zorn",
+            "loser": "Alan"
+          },
+          {
+            "winner": "David",
+            "loser": "Kimmy"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2025_December",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Eric",
+            "loser": "Elijah"
+          },
+          {
+            "winner": "7th Ace",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Lady Zorn",
+            "loser": "Brian"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Lexi"
+          },
+          {
+            "winner": "Default",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Aqua"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Jenni"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Marc",
+            "loser": "Eric"
+          },
+          {
+            "winner": "7th Ace",
+            "loser": "Lady Zorn"
+          },
+          {
+            "winner": "Default",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Neil"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "7th Ace",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Default",
+            "loser": "Zorn"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Default",
+            "loser": "7th Ace"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Neil",
+            "loser": "Default"
+          },
+          {
+            "winner": "Default",
+            "loser": "Neil"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Neil",
+            "loser": "7th Ace"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Neil",
+            "loser": "Blood"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Neil",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Zorn"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Neil",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Eric"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Neil",
+            "loser": "Elijah"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Brian"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Lady Zorn"
+          },
+          {
+            "winner": "Eric",
+            "loser": "Aqua"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Brian",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Lexi"
+          },
+          {
+            "winner": "Aqua",
+            "loser": "Jenni"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2025_November",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Zorn",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Brian"
+          },
+          {
+            "winner": "Lexi",
+            "loser": "Elijah"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Steve"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Brandon"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Kyle"
+          },
+          {
+            "winner": "Lady Chimera",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Kimberly"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Zorn",
+            "loser": "Jenni"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Lexi"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Lady Chimera"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Zorn",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Neil"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Ryan"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Blood"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Ryan"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Blood",
+            "loser": "Jenni"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Blood",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Neil"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Marc",
+            "loser": "Brian"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Lexi"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Brian",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Steve"
+          },
+          {
+            "winner": "Lexi",
+            "loser": "Brandon"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Kimmy"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Brian",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Steve",
+            "loser": "Elijah"
+          },
+          {
+            "winner": "Brandon",
+            "loser": "Kyle"
+          },
+          {
+            "winner": "Kimmy",
+            "loser": "Kimberly"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2025_October",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Oskar",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Bryan"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Corey",
+            "loser": "Schoedel"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Jenni",
+            "loser": "Oskar"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Corey"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Jenni"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Blood"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Marc"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Marc",
+            "loser": "Corey"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Corey",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Oskar"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Kimmy",
+            "loser": "Bryan"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Schoedel"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2025_September",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Lady Zorn",
+            "loser": "Sara Rose"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Aqua"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Alex"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Jill",
+            "loser": "Lady Zorn"
+          },
+          {
+            "winner": "Default",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Blood"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Default",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Zorn"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Neil",
+            "loser": "Default"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Neil",
+            "loser": "Zorn"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Default"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Zorn",
+            "loser": "Jill"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Jill",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Aqua"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Blood",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Aqua",
+            "loser": "Lady Zorn"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Blood",
+            "loser": "Sara Rose"
+          },
+          {
+            "winner": "Aqua",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Lady Zorn",
+            "loser": "Alex"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2025_July",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Marc",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Steve",
+            "loser": "Lady Zorn"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Sarah-Rose"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Brent"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Marc",
+            "loser": "Default"
+          },
+          {
+            "winner": "Steve",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Corey"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Aqua"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Marc",
+            "loser": "Steve"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Neil"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Marc"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Zorn"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Marc"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Zorn",
+            "loser": "Neil"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Zorn",
+            "loser": "Steve"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Brent"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Zorn",
+            "loser": "Lady Zorn"
+          },
+          {
+            "winner": "Brent",
+            "loser": "Jill"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Zorn",
+            "loser": "Aqua"
+          },
+          {
+            "winner": "Lady Zorn",
+            "loser": "Corey"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Brent",
+            "loser": "Default"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Lady Zorn",
+            "loser": "Sarah-Rose"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2025_June",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Emily",
+            "loser": "Jensen"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Kimmy"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Bacardi Wizard",
+            "loser": "Emily"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Corey"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Default",
+            "loser": "Hyro the Pyro"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Blood",
+            "loser": "Bacardi Wizard"
+          },
+          {
+            "winner": "Default",
+            "loser": "Marc"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Default"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Marc"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Marc",
+            "loser": "Default"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Marc",
+            "loser": "Bacardi Wizard"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Bacardi Wizard",
+            "loser": "Jensen"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Emily"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Jensen",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Emily",
+            "loser": "Corey"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Jensen",
+            "loser": "Hyro the Pyro"
+          },
+          {
+            "winner": "Corey",
+            "loser": "Kimmy"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2025_May",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Zorn",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Lady Zorn"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Default"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Zorn",
+            "loser": "The Shadow"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Brian"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Disaster Chick"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Kimmy"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Zorn",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Jill"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Jenni"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Zorn"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Blood"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Blood",
+            "loser": "Marc"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Blood",
+            "loser": "Lady Zorn"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Jill"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Lady Zorn",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Default"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Neil",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Lady Zorn",
+            "loser": "Disaster Chick"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Brian"
+          },
+          {
+            "winner": "Default",
+            "loser": "The Shadow"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2025_April",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Marc",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Tanner",
+            "loser": "Default"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Blood",
+            "loser": "HyR0"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Marc",
+            "loser": "Emily"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Tanner"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Jack"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Livvy"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Marc",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Blood"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Marc",
+            "loser": "Zorn"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Zorn"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Blood"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Blood",
+            "loser": "Jill"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Jill",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Neil"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Kimmy",
+            "loser": "Default"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Emily"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Kimmy",
+            "loser": "Livvy"
+          },
+          {
+            "winner": "Default",
+            "loser": "Jack"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Tanner"
+          },
+          {
+            "winner": "Emily",
+            "loser": "HyR0"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2025_March",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Marc",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Emily",
+            "loser": "Tanner"
+          },
+          {
+            "winner": "Livvy",
+            "loser": "Justin"
+          },
+          {
+            "winner": "Brian",
+            "loser": "Ian"
+          },
+          {
+            "winner": "Nicole",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Lady Zorn",
+            "loser": "John"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Shawna"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Marc",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Emily",
+            "loser": "Livvy"
+          },
+          {
+            "winner": "Brian",
+            "loser": "Nicole"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Lady Zorn"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Marc",
+            "loser": "Emily"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Brian"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Marc"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Marc",
+            "loser": "Jenni"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Marc"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Marc",
+            "loser": "Brian"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Brian",
+            "loser": "Blood"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Blood",
+            "loser": "Emily"
+          },
+          {
+            "winner": "Brian",
+            "loser": "Zorn"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Blood",
+            "loser": "Nicole"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Livvy"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Blood",
+            "loser": "Lady Zorn"
+          },
+          {
+            "winner": "Nicole",
+            "loser": "Justin"
+          },
+          {
+            "winner": "Livvy",
+            "loser": "Ian"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "John"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Justin",
+            "loser": "Tanner"
+          },
+          {
+            "winner": "Ian",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "John",
+            "loser": "Shawna"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2025_February",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Ben",
+            "loser": "Riley"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Birthday Lady Zorn"
+          },
+          {
+            "winner": "Sarah",
+            "loser": "Arleigh"
+          },
+          {
+            "winner": "Nawossa",
+            "loser": "Travis"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Blake"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Chuck"
+          },
+          {
+            "winner": "Ethan",
+            "loser": "Shawna"
+          },
+          {
+            "winner": "Emily",
+            "loser": "Keira"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Ben",
+            "loser": "Maddy"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Sarah"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Nawossa"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Shelby"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Karli"
+          },
+          {
+            "winner": "Justin",
+            "loser": "Ethan"
+          },
+          {
+            "winner": "Brian",
+            "loser": "Emily"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Neil",
+            "loser": "Ben"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Jenni"
+          },
+          {
+            "winner": "Brian",
+            "loser": "Justin"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Neil",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Brian"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Neil"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Blood"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Neil"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Blood",
+            "loser": "Emily"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Emily",
+            "loser": "Brian"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Jenni"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Emily",
+            "loser": "Travis"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Chuck"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Emily",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Travis",
+            "loser": "Ben"
+          },
+          {
+            "winner": "Chuck",
+            "loser": "Justin"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Keira"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Emily",
+            "loser": "Birthday Lady Zorn"
+          },
+          {
+            "winner": "Travis",
+            "loser": "Karli"
+          },
+          {
+            "winner": "Chuck",
+            "loser": "Nawossa"
+          },
+          {
+            "winner": "Keira",
+            "loser": "Shawna"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Emily",
+            "loser": "Riley"
+          },
+          {
+            "winner": "Birthday Lady Zorn",
+            "loser": "Ethan"
+          },
+          {
+            "winner": "Karli",
+            "loser": "Arleigh"
+          },
+          {
+            "winner": "Travis",
+            "loser": "Shelby"
+          },
+          {
+            "winner": "Nawossa",
+            "loser": "Blake"
+          },
+          {
+            "winner": "Chuck",
+            "loser": "Sarah"
+          },
+          {
+            "winner": "Shawna",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Keira",
+            "loser": "Maddy"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2025_January",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Hannah",
+            "loser": "Ben"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Hannah",
+            "loser": "Sara"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Tripp",
+            "loser": "Maurice"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Tanner"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Livvy"
+          },
+          {
+            "winner": "Brian",
+            "loser": "Lady Zorn"
+          },
+          {
+            "winner": "Emily",
+            "loser": "Jack"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Jill"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Blood",
+            "loser": "Hannah"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Tripp"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Brian"
+          },
+          {
+            "winner": "Emily",
+            "loser": "Zorn"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Marc",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Emily"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Neil",
+            "loser": "Marc"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Marc",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Neil"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Marc",
+            "loser": "Lady Zorn"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Lady Zorn",
+            "loser": "Blood"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Lady Zorn",
+            "loser": "Emily"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Zorn"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Lady Zorn",
+            "loser": "Tripp"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Brian"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Tripp",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Lady Zorn",
+            "loser": "Hannah"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Tanner"
+          },
+          {
+            "winner": "Brian",
+            "loser": "Sara"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Jill",
+            "loser": "Jack"
+          },
+          {
+            "winner": "Lady Zorn",
+            "loser": "Livvy"
+          },
+          {
+            "winner": "Tanner",
+            "loser": "Maurice"
+          },
+          {
+            "winner": "Sara",
+            "loser": "Kimmy"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Jill",
+            "loser": "Ben"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2024_December",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Jill",
+            "loser": "Peter"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Livvy"
+          },
+          {
+            "winner": "Emily",
+            "loser": "Wyatt"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Brian",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Jon"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Jill",
+            "loser": "Isla"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Dan"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Tanner"
+          },
+          {
+            "winner": "Emily",
+            "loser": "Elliot"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Lady Zorn",
+            "loser": "Owen"
+          },
+          {
+            "winner": "Brian",
+            "loser": "Amy"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Jack"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Jill",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Emily"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Lady Zorn"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Brian"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Jill",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Zorn"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Jill"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Jill"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Jill",
+            "loser": "Zorn"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Zorn",
+            "loser": "Neil"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Zorn",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Jon"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Blood",
+            "loser": "Emily"
+          },
+          {
+            "winner": "Jon",
+            "loser": "Brian"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Emily",
+            "loser": "Jack"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Brian",
+            "loser": "Tanner"
+          },
+          {
+            "winner": "Jon",
+            "loser": "Lady Zorn"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Jack",
+            "loser": "Amy"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Owen"
+          },
+          {
+            "winner": "Tanner",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Jon",
+            "loser": "Josh"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Jack",
+            "loser": "Peter"
+          },
+          {
+            "winner": "Owen",
+            "loser": "Livvy"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Wyatt"
+          },
+          {
+            "winner": "Kimmy",
+            "loser": "Elliot"
+          },
+          {
+            "winner": "Josh",
+            "loser": "Dan"
+          },
+          {
+            "winner": "Jon",
+            "loser": "Isla"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2024_October",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Angela",
+            "loser": "Angelica"
+          },
+          {
+            "winner": "Brian",
+            "loser": "Matt"
+          },
+          {
+            "winner": "Corey",
+            "loser": "Disaster Chick"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "The Shadow"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Brian",
+            "loser": "Angela"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Corey"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Brian"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Matt"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Matt",
+            "loser": "Brian"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Matt",
+            "loser": "Angela"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Matt",
+            "loser": "Corey"
+          },
+          {
+            "winner": "Angela",
+            "loser": "The Shadow"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Matt",
+            "loser": "Angelica"
+          },
+          {
+            "winner": "The Shadow",
+            "loser": "Disaster Chick"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2024_September",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "John",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Emily",
+            "loser": "Disaster Chick"
+          },
+          {
+            "winner": "Bryant",
+            "loser": "Jamie"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Cory",
+            "loser": "Etta"
+          },
+          {
+            "winner": "Angelica",
+            "loser": "Brett"
+          },
+          {
+            "winner": "Brian",
+            "loser": "Jack"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Ryan",
+            "loser": "John"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Adi"
+          },
+          {
+            "winner": "Emily",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Ammie",
+            "loser": "Bryant"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Cory"
+          },
+          {
+            "winner": "Angelica",
+            "loser": "Lady Zorn"
+          },
+          {
+            "winner": "Brian",
+            "loser": "The Shadow"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Jenni",
+            "loser": "Ryan"
+          },
+          {
+            "winner": "Emily",
+            "loser": "Ammie"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Angelica",
+            "loser": "Brian"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Jenni",
+            "loser": "Emily"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Angelica"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Blood"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Neil"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Neil",
+            "loser": "Blood"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Neil",
+            "loser": "Zorn"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Zorn",
+            "loser": "Angelica"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Emily"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Zorn",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Jill"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Marc",
+            "loser": "Ammie"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Ryan"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Brian"
+          },
+          {
+            "winner": "Neil",
+            "loser": "John"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Marc",
+            "loser": "Lady Zorn"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Cory"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "John",
+            "loser": "Brett"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Marc",
+            "loser": "The Shadow"
+          },
+          {
+            "winner": "Cory",
+            "loser": "Disaster Chick"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Jamie"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Bryant"
+          },
+          {
+            "winner": "Kimmy",
+            "loser": "Etta"
+          },
+          {
+            "winner": "Brett",
+            "loser": "Adi"
+          },
+          {
+            "winner": "John",
+            "loser": "Jack"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2024_August",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "John",
+            "loser": "Willa"
+          },
+          {
+            "winner": "Isaiah",
+            "loser": "Jamie"
+          },
+          {
+            "winner": "Emily",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Travis"
+          },
+          {
+            "winner": "Jack",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Lady Birthday Boy"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Wyatt"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "John",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Emily",
+            "loser": "Isaiah"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Jack"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Neil"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "John",
+            "loser": "Emily"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Blood"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "John"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Neil",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Zorn"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Neil",
+            "loser": "John"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Neil",
+            "loser": "Blood"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Neil",
+            "loser": "Emily"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Jill"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Neil",
+            "loser": "Jack"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Josh"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Neil",
+            "loser": "Willa"
+          },
+          {
+            "winner": "Jack",
+            "loser": "Jamie"
+          },
+          {
+            "winner": "Josh",
+            "loser": "Isaiah"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Lady Birthday Boy"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Jamie",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Josh",
+            "loser": "Travis"
+          },
+          {
+            "winner": "Lady Birthday Boy",
+            "loser": "Wyatt"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2024_July",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Tiffany",
+            "loser": "Eric"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Rosie",
+            "loser": "Mark W"
+          },
+          {
+            "winner": "Josh",
+            "loser": "Lola"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Nick"
+          },
+          {
+            "winner": "Flavonoid",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Jensen",
+            "loser": "Jake"
+          },
+          {
+            "winner": "Rod of Iron",
+            "loser": "Angelica"
+          },
+          {
+            "winner": "Blue BMW",
+            "loser": "Rookie Ryan"
+          },
+          {
+            "winner": "Luna",
+            "loser": "Andi"
+          },
+          {
+            "winner": "Bryan",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Jenni"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Ryan",
+            "loser": "Tiffany"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Rosie"
+          },
+          {
+            "winner": "Josh",
+            "loser": "Bailey"
+          },
+          {
+            "winner": "Flavonoid",
+            "loser": "Jill"
+          },
+          {
+            "winner": "John",
+            "loser": "Jensen"
+          },
+          {
+            "winner": "Rod of Iron",
+            "loser": "Blue BMW"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Luna"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Bryan"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Neil",
+            "loser": "Ryan"
+          },
+          {
+            "winner": "Flavonoid",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Rod of Iron",
+            "loser": "John"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Blood"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Flavonoid",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Rod of Iron"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Marc",
+            "loser": "Flavonoid"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Marc",
+            "loser": "Neil"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Neil",
+            "loser": "Flavonoid"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Neil",
+            "loser": "Ryan"
+          }
+        ],
+        "round_6": [
+          {
+            "winner": "Ryan",
+            "loser": "Rod of Iron"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Jenni"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Ryan",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Jill"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Lady Chimera",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "John"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Lady Chimera",
+            "loser": "Eric"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Blue BMW"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Angelica"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Andi"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Eric",
+            "loser": "Bryan"
+          },
+          {
+            "winner": "Lady Chimera",
+            "loser": "Luna"
+          },
+          {
+            "winner": "Blue BMW",
+            "loser": "Lola"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Jensen"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Jake"
+          },
+          {
+            "winner": "Angelica",
+            "loser": "Bailey"
+          },
+          {
+            "winner": "Andi",
+            "loser": "Rosie"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Tiffany"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Lady Chimera",
+            "loser": "Mark W"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Nick"
+          },
+          {
+            "winner": "Angelica",
+            "loser": "Rookie Ryan"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Kimmy"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2024_June",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Jenni",
+            "loser": "Jimi"
+          },
+          {
+            "winner": "Rich",
+            "loser": "Peter"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Sean",
+            "loser": "Meryl"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Jenni",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Jesse",
+            "loser": "Mike"
+          },
+          {
+            "winner": "Rich",
+            "loser": "Abraham"
+          },
+          {
+            "winner": "Brian",
+            "loser": "Claire"
+          },
+          {
+            "winner": "Marissa",
+            "loser": "Ryan"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Jensen"
+          },
+          {
+            "winner": "Angelica",
+            "loser": "Sean"
+          },
+          {
+            "winner": "Ginni",
+            "loser": "Josh"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Jenni",
+            "loser": "Jesse"
+          },
+          {
+            "winner": "Rich",
+            "loser": "Brian"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Marissa"
+          },
+          {
+            "winner": "Ginni",
+            "loser": "Angelica"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Jenni",
+            "loser": "Rich"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Ginni"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Marc"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Marc",
+            "loser": "Jenni"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Jenni"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Marc",
+            "loser": "Rich"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Rich",
+            "loser": "Jesse"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Jesse",
+            "loser": "Ginni"
+          },
+          {
+            "winner": "Rich",
+            "loser": "Angelica"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Jesse",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Angelica",
+            "loser": "Mike"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Josh",
+            "loser": "Brian"
+          },
+          {
+            "winner": "Jesse",
+            "loser": "Ryan"
+          },
+          {
+            "winner": "Angelica",
+            "loser": "Abraham"
+          },
+          {
+            "winner": "Mike",
+            "loser": "Marissa"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Josh",
+            "loser": "Sean"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Jensen"
+          },
+          {
+            "winner": "Abraham",
+            "loser": "Claire"
+          },
+          {
+            "winner": "Mike",
+            "loser": "Blood"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Josh",
+            "loser": "Jimi"
+          },
+          {
+            "winner": "Jensen",
+            "loser": "Peter"
+          },
+          {
+            "winner": "Claire",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Mike",
+            "loser": "Meryl"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2024_May",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Jarrod",
+            "loser": "Disaster Chick"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Corey"
+          },
+          {
+            "winner": "Hyro",
+            "loser": "Joy"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Neil",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Hyro",
+            "loser": "The Shadow"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Marc",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Hyro",
+            "loser": "Keely"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Marc",
+            "loser": "Hyro"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Neil",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Neil"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Neil",
+            "loser": "Hyro"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Neil",
+            "loser": "Keely"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Neil",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Blood"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Jill",
+            "loser": "The Shadow"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Joy"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "The Shadow",
+            "loser": "Disaster Chick"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Corey"
+          },
+          {
+            "winner": "Joy",
+            "loser": "Jarrod"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2024_April",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Jenni",
+            "loser": "Fatima"
+          },
+          {
+            "winner": "Owl",
+            "loser": "Aidan"
+          },
+          {
+            "winner": "Marissa",
+            "loser": "Emma"
+          },
+          {
+            "winner": "Blazer",
+            "loser": "Amanda"
+          },
+          {
+            "winner": "Jarrod",
+            "loser": "Alex"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Brian"
+          },
+          {
+            "winner": "Ashley",
+            "loser": "Jerilynn"
+          },
+          {
+            "winner": "Jami",
+            "loser": "Brody"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Daren"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Spork"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Rod of Iron"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Jenni",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Marissa",
+            "loser": "Owl"
+          },
+          {
+            "winner": "Lady Zorn",
+            "loser": "Blazer"
+          },
+          {
+            "winner": "Jarrod",
+            "loser": "Hip"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Eli"
+          },
+          {
+            "winner": "Jami",
+            "loser": "Ashley"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Blood"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Jenni",
+            "loser": "Marissa"
+          },
+          {
+            "winner": "Lady Zorn",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Jami"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Neil"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Jenni",
+            "loser": "Lady Zorn"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Keely"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Marc"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Keely",
+            "loser": "Jenni"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Keely"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Keely",
+            "loser": "Marc"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Keely",
+            "loser": "Neil"
+          }
+        ],
+        "round_6": [
+          {
+            "winner": "Keely",
+            "loser": "Marissa"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Lady Zorn"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Marissa",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Owl"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Zorn",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Marissa",
+            "loser": "Ashley"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Brian"
+          },
+          {
+            "winner": "Owl",
+            "loser": "Jami"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Zorn",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Ashley",
+            "loser": "Alex"
+          },
+          {
+            "winner": "Brian",
+            "loser": "Brody"
+          },
+          {
+            "winner": "Owl",
+            "loser": "Jill"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Blood",
+            "loser": "Fatima"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Aidan"
+          },
+          {
+            "winner": "Ashley",
+            "loser": "Amanda"
+          },
+          {
+            "winner": "Alex",
+            "loser": "Eli"
+          },
+          {
+            "winner": "Brian",
+            "loser": "Hip"
+          },
+          {
+            "winner": "Brody",
+            "loser": "Blazer"
+          },
+          {
+            "winner": "Owl",
+            "loser": "Daren"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Spork"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Aidan",
+            "loser": "Emma"
+          },
+          {
+            "winner": "Brody",
+            "loser": "Jerilynn"
+          },
+          {
+            "winner": "Spork",
+            "loser": "Rod of Iron"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2024_March",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Blood",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Joy"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Marissa",
+            "loser": "Jarrod"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Blood",
+            "loser": "Kimmy"
+          },
+          {
+            "winner": "Hyro",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Tammy"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Marissa"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Hyro",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Jill"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Ryan",
+            "loser": "Hyro"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Ryan",
+            "loser": "Neil"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Neil",
+            "loser": "Hyro"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Neil",
+            "loser": "Jill"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Neil",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Marc"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Neil",
+            "loser": "Joy"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Jarrod"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Neil",
+            "loser": "Marissa"
+          },
+          {
+            "winner": "Joy",
+            "loser": "Tammy"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Jarrod",
+            "loser": "Kimmy"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2024_February",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Zorn",
+            "loser": "M Carlo 70"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Aidan"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Disaster Chick"
+          },
+          {
+            "winner": "Pixel",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Andrew"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Mateo"
+          },
+          {
+            "winner": "Hip",
+            "loser": "Mike"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Morissa"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Ethan N"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Zorn",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Pixel",
+            "loser": "Brian"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Kiera"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Hip",
+            "loser": "Jamie"
+          },
+          {
+            "winner": "Jill",
+            "loser": "The Shadow"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Ethan"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Zorn",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Pixel",
+            "loser": "Ryan"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Hip"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Blood"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Zorn",
+            "loser": "Pixel"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Jill"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Jenni"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Zorn"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Ryan"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Ryan",
+            "loser": "Blood"
+          }
+        ],
+        "round_6": [
+          {
+            "winner": "Ryan",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Pixel"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Ryan",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Morissa"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Ryan",
+            "loser": "M Carlo 70"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Mike"
+          },
+          {
+            "winner": "Morissa",
+            "loser": "Hip"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "M Carlo 70",
+            "loser": "The Shadow"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Mike",
+            "loser": "Mateo"
+          },
+          {
+            "winner": "Morissa",
+            "loser": "Lady Chimera"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "M Carlo 70",
+            "loser": "Ethan"
+          },
+          {
+            "winner": "The Shadow",
+            "loser": "Aidan"
+          },
+          {
+            "winner": "Jarrod",
+            "loser": "Jamie"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Andrew"
+          },
+          {
+            "winner": "Mateo",
+            "loser": "Kiera"
+          },
+          {
+            "winner": "Mike",
+            "loser": "Brian"
+          },
+          {
+            "winner": "Morissa",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Lady Chimera",
+            "loser": "Ethan N"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Aidan",
+            "loser": "Disaster Chick"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2024_January",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Ryan",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Rich",
+            "loser": "Matt"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Ryan",
+            "loser": "Andrew"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Dane"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Hip"
+          },
+          {
+            "winner": "Rich",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Jensen"
+          },
+          {
+            "winner": "Pixel",
+            "loser": "Tesla"
+          },
+          {
+            "winner": "Lady Chimera",
+            "loser": "Mateo"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Neil",
+            "loser": "Ryan"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Rich"
+          },
+          {
+            "winner": "Lady Chimera",
+            "loser": "Pixel"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Neil",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Lady Chimera"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Neil",
+            "loser": "Zorn"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Ryan",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Neil"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Ryan",
+            "loser": "Zorn"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Ryan",
+            "loser": "Pixel"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Ryan",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Pixel",
+            "loser": "Keely"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Ryan",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Pixel",
+            "loser": "Rich"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Blood",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Pixel",
+            "loser": "Matt"
+          },
+          {
+            "winner": "Rich",
+            "loser": "Dane"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Blood",
+            "loser": "Tesla"
+          },
+          {
+            "winner": "Jarrod",
+            "loser": "Jensen"
+          },
+          {
+            "winner": "Matt",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Dane",
+            "loser": "Andrew"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Blood",
+            "loser": "Mateo"
+          },
+          {
+            "winner": "Matt",
+            "loser": "Hip"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2023_November",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Nina",
+            "loser": "Ito"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Kevin"
+          },
+          {
+            "winner": "Flavanoid",
+            "loser": "Space Jazzercise"
+          },
+          {
+            "winner": "Doubtfire Dear",
+            "loser": "Phoenix"
+          },
+          {
+            "winner": "Javier",
+            "loser": "Jenni"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Lady Chimera",
+            "loser": "Nina"
+          },
+          {
+            "winner": "Flavanoid",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Doubtfire Dear"
+          },
+          {
+            "winner": "Javier",
+            "loser": "Marc"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Flavanoid",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Javier"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Flavanoid",
+            "loser": "Blood"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Flavanoid"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Flavanoid"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Marc"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Marc",
+            "loser": "Zorn"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Marc",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Javier"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Marc",
+            "loser": "Kevin"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Jenni"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Marc",
+            "loser": "Ito"
+          },
+          {
+            "winner": "Kevin",
+            "loser": "Doubtfire Dear"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Phoenix"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Nina"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Kevin",
+            "loser": "Space Jazzercise"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2023_October",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Jill",
+            "loser": "Flavonoid"
+          },
+          {
+            "winner": "Hip",
+            "loser": "Cleveland Z"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Jill",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Laura"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Jarrod",
+            "loser": "Space Jazzercise"
+          },
+          {
+            "winner": "Stevie",
+            "loser": "Hip"
+          },
+          {
+            "winner": "The Shadow",
+            "loser": "Joe"
+          },
+          {
+            "winner": "Lucy",
+            "loser": "Brandon"
+          },
+          {
+            "winner": "Mob",
+            "loser": "Jen"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Jill",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Stevie",
+            "loser": "The Shadow"
+          },
+          {
+            "winner": "Lucy",
+            "loser": "Mob"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Blood",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Stevie",
+            "loser": "Lucy"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Stevie"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Flavonoid",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Flavonoid"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Flavonoid",
+            "loser": "Stevie"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Flavonoid",
+            "loser": "Keely"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Flavonoid",
+            "loser": "Lucy"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Jill"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Flavonoid",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Neil"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Flavonoid",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Hip"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Mob"
+          },
+          {
+            "winner": "Neil",
+            "loser": "The Shadow"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Flavonoid",
+            "loser": "Brandon"
+          },
+          {
+            "winner": "Hip",
+            "loser": "Joe"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Space Jazzercise"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Laura"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Flavonoid",
+            "loser": "Jen"
+          },
+          {
+            "winner": "Space Jazzercise",
+            "loser": "Cleveland Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2023_August",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Ryan",
+            "loser": "Craig"
+          },
+          {
+            "winner": "Erin",
+            "loser": "Andrew"
+          },
+          {
+            "winner": "Jensen",
+            "loser": "Heaven"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Mike D"
+          },
+          {
+            "winner": "Tesla",
+            "loser": "Silvia"
+          },
+          {
+            "winner": "Riley",
+            "loser": "Mob"
+          },
+          {
+            "winner": "Pixel",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Ola",
+            "loser": "John"
+          },
+          {
+            "winner": "Blair",
+            "loser": "Space Jazzercise"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Jill"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Ryan",
+            "loser": "Merrick"
+          },
+          {
+            "winner": "Jensen",
+            "loser": "Erin"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Davis"
+          },
+          {
+            "winner": "Rich",
+            "loser": "Tesla"
+          },
+          {
+            "winner": "Riley",
+            "loser": "Miiself"
+          },
+          {
+            "winner": "Pixel",
+            "loser": "Ola"
+          },
+          {
+            "winner": "Flavonoid",
+            "loser": "Blair"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Keely"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Ryan",
+            "loser": "Jensen"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Rich"
+          },
+          {
+            "winner": "Pixel",
+            "loser": "Riley"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Flavonoid"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Ryan",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Pixel"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Ryan",
+            "loser": "Zorn"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Ryan",
+            "loser": "Zorn"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Neil"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Neil",
+            "loser": "Rich"
+          }
+        ],
+        "round_6": [
+          {
+            "winner": "Rich",
+            "loser": "Pixel"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Tesla"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Rich",
+            "loser": "Ola"
+          },
+          {
+            "winner": "Tesla",
+            "loser": "Space Jazzercise"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Rich",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Ola",
+            "loser": "Jensen"
+          },
+          {
+            "winner": "Tesla",
+            "loser": "Flavonoid"
+          },
+          {
+            "winner": "Space Jazzercise",
+            "loser": "Riley"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Keely",
+            "loser": "Blair"
+          },
+          {
+            "winner": "Ola",
+            "loser": "Miiself"
+          },
+          {
+            "winner": "Tesla",
+            "loser": "John"
+          },
+          {
+            "winner": "Space Jazzercise",
+            "loser": "Merrick"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Keely",
+            "loser": "Craig"
+          },
+          {
+            "winner": "Blair",
+            "loser": "Andrew"
+          },
+          {
+            "winner": "Ola",
+            "loser": "Mike D"
+          },
+          {
+            "winner": "Miiself",
+            "loser": "Silvia"
+          },
+          {
+            "winner": "Tesla",
+            "loser": "Mob"
+          },
+          {
+            "winner": "John",
+            "loser": "Davis"
+          },
+          {
+            "winner": "Space Jazzercise",
+            "loser": "Erin"
+          },
+          {
+            "winner": "Merrick",
+            "loser": "Jill"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Andrew",
+            "loser": "Heaven"
+          },
+          {
+            "winner": "John",
+            "loser": "Josh"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2023_July",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Blood",
+            "loser": "Rich"
+          },
+          {
+            "winner": "Hip",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Megan",
+            "loser": "Flavonoid"
+          },
+          {
+            "winner": "Richard",
+            "loser": "Rachel"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Dane"
+          },
+          {
+            "winner": "Mark",
+            "loser": "Luna"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Blood",
+            "loser": "Tesla"
+          },
+          {
+            "winner": "Anthony",
+            "loser": "Mob"
+          },
+          {
+            "winner": "Tim S",
+            "loser": "Hip"
+          },
+          {
+            "winner": "Megan",
+            "loser": "Brian"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Richard"
+          },
+          {
+            "winner": "Cara",
+            "loser": "Monica"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Lauren"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Mark"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Blood",
+            "loser": "Anthony"
+          },
+          {
+            "winner": "Tim S",
+            "loser": "Megan"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Cara"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Marc"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Tim S",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Keely"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Tim S"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Jenni"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Blood"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Tim S"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Blood",
+            "loser": "Rich"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Rich",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Hip"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Rich",
+            "loser": "Richard"
+          },
+          {
+            "winner": "Hip",
+            "loser": "Dane"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Rich",
+            "loser": "Megan"
+          },
+          {
+            "winner": "Richard",
+            "loser": "Anthony"
+          },
+          {
+            "winner": "Hip",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Dane",
+            "loser": "Cara"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Rich",
+            "loser": "Lauren"
+          },
+          {
+            "winner": "Richard",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Hip",
+            "loser": "Rachel"
+          },
+          {
+            "winner": "Dane",
+            "loser": "Tesla"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Rich",
+            "loser": "Mark"
+          },
+          {
+            "winner": "Jarrod",
+            "loser": "Monica"
+          },
+          {
+            "winner": "Richard",
+            "loser": "Flavonoid"
+          },
+          {
+            "winner": "Rachel",
+            "loser": "Brian"
+          },
+          {
+            "winner": "Dane",
+            "loser": "Mob"
+          },
+          {
+            "winner": "Tesla",
+            "loser": "Luna"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2023_June",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Keely",
+            "loser": "Natty"
+          },
+          {
+            "winner": "Ronaldo",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Anastasia",
+            "loser": "Pete"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Kegan"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Blood",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Jess"
+          },
+          {
+            "winner": "Ronaldo",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Matt",
+            "loser": "Anthony"
+          },
+          {
+            "winner": "Anastasia",
+            "loser": "Blazer"
+          },
+          {
+            "winner": "The Shadow",
+            "loser": "Nina"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Petra"
+          },
+          {
+            "winner": "Kevin",
+            "loser": "Mahlon"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Blood",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Ronaldo",
+            "loser": "Matt"
+          },
+          {
+            "winner": "The Shadow",
+            "loser": "Anastasia"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Kevin"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Ronaldo",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "The Shadow"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Ronaldo"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Blood"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Ronaldo"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Blood",
+            "loser": "The Shadow"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "The Shadow",
+            "loser": "Petra"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Kevin"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Petra",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Kevin",
+            "loser": "Keely"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Petra",
+            "loser": "Matt"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Kevin",
+            "loser": "Anthony"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Anastasia"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Petra",
+            "loser": "Natty"
+          },
+          {
+            "winner": "Lady Chimera",
+            "loser": "Blazer"
+          },
+          {
+            "winner": "Anthony",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Jess"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Natty",
+            "loser": "Mahlon"
+          },
+          {
+            "winner": "Lady Chimera",
+            "loser": "Nina"
+          },
+          {
+            "winner": "Anthony",
+            "loser": "Pete"
+          },
+          {
+            "winner": "Jess",
+            "loser": "Kegan"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2023_May",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Jarrod",
+            "loser": "Brady"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Ice Man",
+            "loser": "Luke"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Jarrod",
+            "loser": "Heather"
+          },
+          {
+            "winner": "Ronaldo",
+            "loser": "Nate"
+          },
+          {
+            "winner": "Lady Chimera",
+            "loser": "Stace"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Jacob"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Hip"
+          },
+          {
+            "winner": "Ice Man",
+            "loser": "Kegan"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Bryan"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Ronaldo",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Ice Man"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Ronaldo",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Jenni"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Ronaldo",
+            "loser": "Neil"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Ronaldo"
+          },
+          {
+            "winner": "Ronaldo",
+            "loser": "Jenni"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Neil"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Jenni",
+            "loser": "Zorn"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Jenni",
+            "loser": "Hip"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Keely"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Hip",
+            "loser": "Brady"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Marc"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Brady",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Hip",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Ice Man"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Nate"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Brady",
+            "loser": "Kegan"
+          },
+          {
+            "winner": "Hip",
+            "loser": "Jacob"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Stace"
+          },
+          {
+            "winner": "Nate",
+            "loser": "Heather"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Brady",
+            "loser": "Bryan"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Nate",
+            "loser": "Luke"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2023_April",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Lady Chimera",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Eli"
+          },
+          {
+            "winner": "Hip",
+            "loser": "Heaven"
+          },
+          {
+            "winner": "Bryan",
+            "loser": "Jensen"
+          },
+          {
+            "winner": "Soul Man",
+            "loser": "Blazer"
+          },
+          {
+            "winner": "Dante",
+            "loser": "Austin"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Brady"
+          },
+          {
+            "winner": "Christopher",
+            "loser": "Ume"
+          },
+          {
+            "winner": "Niko",
+            "loser": "Newbie Sylvia"
+          },
+          {
+            "winner": "Jerilynn",
+            "loser": "Rhys"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Lady Chimera",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Hip",
+            "loser": "Alyssa"
+          },
+          {
+            "winner": "Josh",
+            "loser": "Bryan"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Soul Man"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Dante"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Christopher"
+          },
+          {
+            "winner": "Jerilynn",
+            "loser": "Niko"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Jill",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Josh",
+            "loser": "Hip"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Jerilynn"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Jill",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Jenni"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Ryan",
+            "loser": "Jill"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Ryan",
+            "loser": "Blood"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Jill"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Blood",
+            "loser": "Jenni"
+          }
+        ],
+        "round_6": [
+          {
+            "winner": "Jenni",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Josh"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Zorn",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Jerilynn"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Zorn",
+            "loser": "Hip"
+          },
+          {
+            "winner": "Lady Chimera",
+            "loser": "Jensen"
+          },
+          {
+            "winner": "Jerilynn",
+            "loser": "Bryan"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Neil"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Zorn",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Jensen",
+            "loser": "Heaven"
+          },
+          {
+            "winner": "Bryan",
+            "loser": "Brady"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Jarrod"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Zorn",
+            "loser": "Niko"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Christopher"
+          },
+          {
+            "winner": "Heaven",
+            "loser": "Dante"
+          },
+          {
+            "winner": "Jensen",
+            "loser": "Soul Man"
+          },
+          {
+            "winner": "Bryan",
+            "loser": "Blazer"
+          },
+          {
+            "winner": "Brady",
+            "loser": "Alyssa"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Ume"
+          },
+          {
+            "winner": "Jarrod",
+            "loser": "Rhys"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Keely",
+            "loser": "Eli"
+          },
+          {
+            "winner": "Brady",
+            "loser": "Austin"
+          },
+          {
+            "winner": "Rhys",
+            "loser": "Newbie Sylvia"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2023_March",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Alex H",
+            "loser": "Dillon"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Brent",
+            "loser": "Ryan"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Julio the Bow"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Nina"
+          },
+          {
+            "winner": "Jarrod",
+            "loser": "Luke"
+          },
+          {
+            "winner": "Soapy",
+            "loser": "Colton"
+          },
+          {
+            "winner": "Ronaldo",
+            "loser": "Hip"
+          },
+          {
+            "winner": "Christopher",
+            "loser": "Tony King"
+          },
+          {
+            "winner": "Neli",
+            "loser": "Jacob* 10"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Marc",
+            "loser": "Alex H"
+          },
+          {
+            "winner": "Brent",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Jeremy"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Jarrod",
+            "loser": "Ume"
+          },
+          {
+            "winner": "Ronaldo",
+            "loser": "Soapy"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Christopher"
+          },
+          {
+            "winner": "Joe",
+            "loser": "Neli"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Marc",
+            "loser": "Brent"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Ronaldo",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Joe"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Marc",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Ronaldo"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Marc"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Ryan",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Zorn"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Ryan",
+            "loser": "Marc"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Ryan",
+            "loser": "Keely"
+          }
+        ],
+        "round_6": [
+          {
+            "winner": "Ryan",
+            "loser": "Ronaldo"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Jill"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Ryan",
+            "loser": "Brent"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Joe"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Ryan",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Brent",
+            "loser": "Soapy"
+          },
+          {
+            "winner": "Joe",
+            "loser": "Jeremy"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Jarrod"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Ryan",
+            "loser": "Dillon"
+          },
+          {
+            "winner": "Soapy",
+            "loser": "Ume"
+          },
+          {
+            "winner": "Jeremy",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Alex H"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Dillon",
+            "loser": "Neli"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Christopher"
+          },
+          {
+            "winner": "Soapy",
+            "loser": "Julio the Bow"
+          },
+          {
+            "winner": "Ume",
+            "loser": "Nina"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Luke"
+          },
+          {
+            "winner": "Jeremy",
+            "loser": "Hip"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Tony King"
+          },
+          {
+            "winner": "Alex H",
+            "loser": "Jacob* 10"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Ryan",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Hip",
+            "loser": "Colton"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2023_February",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Eli",
+            "loser": "Scott T"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Chris",
+            "loser": "Robert"
+          },
+          {
+            "winner": "Jensen",
+            "loser": "Blood"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "The Shadow",
+            "loser": "Eli"
+          },
+          {
+            "winner": "Ian",
+            "loser": "Koen"
+          },
+          {
+            "winner": "Scottie",
+            "loser": "Jerilynn"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Luke"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Luna"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Christopher"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Maddie"
+          },
+          {
+            "winner": "Ronaldo",
+            "loser": "Marissa"
+          },
+          {
+            "winner": "Hip",
+            "loser": "Chris"
+          },
+          {
+            "winner": "Rod",
+            "loser": "Karina"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Jarrod",
+            "loser": "Harrison"
+          },
+          {
+            "winner": "Audrey",
+            "loser": "Jensen"
+          },
+          {
+            "winner": "Peaches",
+            "loser": "Seth"
+          },
+          {
+            "winner": "Tony",
+            "loser": "Brian"
+          },
+          {
+            "winner": "Josh",
+            "loser": "Heaven"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "The Shadow",
+            "loser": "Ian"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Scottie"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Jenni"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Ronaldo"
+          },
+          {
+            "winner": "Rod",
+            "loser": "Hip"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Peaches",
+            "loser": "Audrey"
+          },
+          {
+            "winner": "Josh",
+            "loser": "Tony"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Marc",
+            "loser": "The Shadow"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Rod"
+          },
+          {
+            "winner": "Peaches",
+            "loser": "Josh"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Marc",
+            "loser": "Ryan"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Peaches"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Marc"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Ryan"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Ryan",
+            "loser": "Marc"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Ryan",
+            "loser": "Keely"
+          }
+        ],
+        "round_7": [
+          {
+            "winner": "Ryan",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Peaches"
+          }
+        ],
+        "round_6": [
+          {
+            "winner": "Neil",
+            "loser": "Ronaldo"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Christopher"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Ronaldo",
+            "loser": "Rod"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Christopher",
+            "loser": "The Shadow"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Blood"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Ronaldo",
+            "loser": "Jenni"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Karina"
+          },
+          {
+            "winner": "Christopher",
+            "loser": "Marissa"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Hip"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Ronaldo",
+            "loser": "Brian"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Jensen"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Scottie"
+          },
+          {
+            "winner": "Karina",
+            "loser": "Ian"
+          },
+          {
+            "winner": "Marissa",
+            "loser": "Tony"
+          },
+          {
+            "winner": "Christopher",
+            "loser": "Audrey"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Hip",
+            "loser": "Koen"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Brian",
+            "loser": "Heaven"
+          },
+          {
+            "winner": "Jensen",
+            "loser": "Seth"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Karina",
+            "loser": "Chris"
+          },
+          {
+            "winner": "Marissa",
+            "loser": "Maddie"
+          },
+          {
+            "winner": "Christopher",
+            "loser": "Luna"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Jerilynn"
+          },
+          {
+            "winner": "Koen",
+            "loser": "Eli"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Heaven",
+            "loser": "Scott T"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Harrison"
+          },
+          {
+            "winner": "Marissa",
+            "loser": "Robert"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Luke"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2023_January",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Marc",
+            "loser": "Andrew"
+          },
+          {
+            "winner": "Ronaldo",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Hip"
+          },
+          {
+            "winner": "Hap",
+            "loser": "Lee"
+          },
+          {
+            "winner": "Jarrod",
+            "loser": "The Shadow"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Marc",
+            "loser": "Lway"
+          },
+          {
+            "winner": "Kevin",
+            "loser": "Nelli"
+          },
+          {
+            "winner": "Ronaldo",
+            "loser": "Julio"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Hap"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Joseph Robert Bob"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Lady Chimera",
+            "loser": "Kyle"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Marc",
+            "loser": "Kevin"
+          },
+          {
+            "winner": "Ronaldo",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Lady Chimera"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Ronaldo",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Ryan"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Ronaldo"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Ryan",
+            "loser": "Jenni"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Jenni"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Ryan",
+            "loser": "Ronaldo"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Ryan",
+            "loser": "Marc"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Ryan",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Blood"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Keely",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Neil"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Jill",
+            "loser": "Andrew"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Kevin"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Lway"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Andrew",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Hip"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Julio"
+          },
+          {
+            "winner": "Lway",
+            "loser": "The Shadow"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Andrew",
+            "loser": "Kyle"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Joseph Robert Bob"
+          },
+          {
+            "winner": "Hip",
+            "loser": "Hap"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Lee"
+          },
+          {
+            "winner": "The Shadow",
+            "loser": "Nelli"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2022_December",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Ryan",
+            "loser": "Tiffany"
+          },
+          {
+            "winner": "Neli",
+            "loser": "Hannah"
+          },
+          {
+            "winner": "Olivia",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Rod of Iron",
+            "loser": "Damien"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Jill"
+          },
+          {
+            "winner": "Jensen",
+            "loser": "Private"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Tom"
+          },
+          {
+            "winner": "Keely",
+            "loser": "The Shadow"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Ryan",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Luna",
+            "loser": "Neli"
+          },
+          {
+            "winner": "Chloe",
+            "loser": "Olivia"
+          },
+          {
+            "winner": "Rod of Iron",
+            "loser": "Heaven"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Michael"
+          },
+          {
+            "winner": "Jensen",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Ronaldo",
+            "loser": "Keely"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Ryan",
+            "loser": "Luna"
+          },
+          {
+            "winner": "Rod of Iron",
+            "loser": "Chloe"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Jensen"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Ronaldo"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Rod of Iron",
+            "loser": "Ryan"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Blood"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Rod of Iron"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Ryan"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Ryan",
+            "loser": "Rod of Iron"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Ryan",
+            "loser": "Blood"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Blood",
+            "loser": "Damien"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Jill"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Damien",
+            "loser": "Chloe"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Jensen"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Chloe",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Damien",
+            "loser": "Luna"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Ronaldo"
+          },
+          {
+            "winner": "Jensen",
+            "loser": "The Shadow"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Keely",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Damien",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Private"
+          },
+          {
+            "winner": "The Shadow",
+            "loser": "Tom"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Keely",
+            "loser": "Tiffany"
+          },
+          {
+            "winner": "Jarrod",
+            "loser": "Hannah"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Damien",
+            "loser": "Michael"
+          },
+          {
+            "winner": "Jill",
+            "loser": "Heaven"
+          },
+          {
+            "winner": "Private",
+            "loser": "Olivia"
+          },
+          {
+            "winner": "Tom",
+            "loser": "Neli"
+          },
+          {
+            "winner": "The Shadow",
+            "loser": "Lady Chimera"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2022_November",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Jensen",
+            "loser": "Amy"
+          },
+          {
+            "winner": "Joshua",
+            "loser": "JD"
+          },
+          {
+            "winner": "Chloe",
+            "loser": "Daphne"
+          },
+          {
+            "winner": "Lady Chimera",
+            "loser": "Avery"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Blood",
+            "loser": "Jensen"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Hannah"
+          },
+          {
+            "winner": "Patrick",
+            "loser": "Joshua"
+          },
+          {
+            "winner": "Damien",
+            "loser": "Natalie"
+          },
+          {
+            "winner": "Chloe",
+            "loser": "Ryan"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Private"
+          },
+          {
+            "winner": "Lady Chimera",
+            "loser": "Tom"
+          },
+          {
+            "winner": "Ronaldo",
+            "loser": "Erin"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Blood",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Damien",
+            "loser": "Patrick"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Chloe"
+          },
+          {
+            "winner": "Lady Chimera",
+            "loser": "Ronaldo"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Blood",
+            "loser": "Damien"
+          },
+          {
+            "winner": "Jenni",
+            "loser": "Lady Chimera"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Jenni",
+            "loser": "Blood"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Jenni"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Jenni"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Blood"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Zorn",
+            "loser": "Ronaldo"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Zorn",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Ronaldo",
+            "loser": "Damien"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Zorn",
+            "loser": "Erin"
+          },
+          {
+            "winner": "Ronaldo",
+            "loser": "Chloe"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Erin",
+            "loser": "Patrick"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Private"
+          },
+          {
+            "winner": "Ronaldo",
+            "loser": "Daphne"
+          },
+          {
+            "winner": "Chloe",
+            "loser": "Jensen"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Erin",
+            "loser": "Tom"
+          },
+          {
+            "winner": "Private",
+            "loser": "Ryan"
+          },
+          {
+            "winner": "Daphne",
+            "loser": "Joshua"
+          },
+          {
+            "winner": "Jensen",
+            "loser": "Avery"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Erin",
+            "loser": "Amy"
+          },
+          {
+            "winner": "Private",
+            "loser": "JD"
+          },
+          {
+            "winner": "Daphne",
+            "loser": "Natalie"
+          },
+          {
+            "winner": "Avery",
+            "loser": "Hannah"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2022_September",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Ume",
+            "loser": "Tim"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Jesse"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Marc",
+            "loser": "Ume"
+          },
+          {
+            "winner": "Anders",
+            "loser": "Larry"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Hip"
+          },
+          {
+            "winner": "Jarrod",
+            "loser": "Jacob"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Anthony"
+          },
+          {
+            "winner": "Steve",
+            "loser": "The Shadow"
+          },
+          {
+            "winner": "Justin",
+            "loser": "Jeff"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Rideout"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Marc",
+            "loser": "Anders"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Steve",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Justin"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Marc",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Steve",
+            "loser": "Keely"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Marc",
+            "loser": "Steve"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Marc",
+            "loser": "Blood"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Steve"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Blood",
+            "loser": "Keely"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Keely",
+            "loser": "Anders"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Zorn"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Anders",
+            "loser": "Jeff"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Justin"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Jeff",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Anders",
+            "loser": "Anthony"
+          },
+          {
+            "winner": "Justin",
+            "loser": "Hip"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Ume"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Jeff",
+            "loser": "Rideout"
+          },
+          {
+            "winner": "Anthony",
+            "loser": "The Shadow"
+          },
+          {
+            "winner": "Hip",
+            "loser": "Jesse"
+          },
+          {
+            "winner": "Ume",
+            "loser": "Larry"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Rideout",
+            "loser": "Tim"
+          },
+          {
+            "winner": "Jesse",
+            "loser": "Jacob"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2022_August",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Jonnom",
+            "loser": "Isaiah"
+          },
+          {
+            "winner": "Johnny",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Furious Walrus",
+            "loser": "Jensen"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Anthony",
+            "loser": "Jonnom"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Hailey"
+          },
+          {
+            "winner": "Alexa",
+            "loser": "Cleveland"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Neil"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Johnny"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Dark Brandon"
+          },
+          {
+            "winner": "Furious Walrus",
+            "loser": "Jeffrey Epstein (No Relation)"
+          },
+          {
+            "winner": "Jeff",
+            "loser": "Kim's Greatest Disciple"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Marc",
+            "loser": "Anthony"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Alexa"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Jeff",
+            "loser": "Furious Walrus"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Marc",
+            "loser": "Ryan"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Jeff"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Marc"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Marc",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Marc"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Marc",
+            "loser": "Jeff"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Jeff",
+            "loser": "Ryan"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Jeff",
+            "loser": "Johnny"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Zorn"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Johnny",
+            "loser": "Kim's Greatest Disciple"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Neil"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Kim's Greatest Disciple",
+            "loser": "Alexa"
+          },
+          {
+            "winner": "Johnny",
+            "loser": "Anthony"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Furious Walrus"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Jonnom"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Kim's Greatest Disciple",
+            "loser": "Jeffrey Epstein (No Relation)"
+          },
+          {
+            "winner": "Johnny",
+            "loser": "Dark Brandon"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Cleveland"
+          },
+          {
+            "winner": "Jonnom",
+            "loser": "Jensen"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Kim's Greatest Disciple",
+            "loser": "Isaiah"
+          },
+          {
+            "winner": "Neil",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Jensen",
+            "loser": "Hailey"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2022_July",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Tim",
+            "loser": "Peaches"
+          },
+          {
+            "winner": "Tiff",
+            "loser": "Hip"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Rob",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Owl Box",
+            "loser": "Bumberbee"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Bloom Dragoon"
+          },
+          {
+            "winner": "Kevin",
+            "loser": "Ume"
+          },
+          {
+            "winner": "Missi-Me",
+            "loser": "Space Spice"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Paul"
+          },
+          {
+            "winner": "Josh",
+            "loser": "Clover"
+          },
+          {
+            "winner": "Amanda",
+            "loser": "Rod of Iron"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Clevis Bergrady"
+          },
+          {
+            "winner": "Anthony",
+            "loser": "Renee"
+          },
+          {
+            "winner": "Orange Man",
+            "loser": "Jesse"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Riley"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Tim",
+            "loser": "Alex"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Tiff"
+          },
+          {
+            "winner": "Owl Box",
+            "loser": "Rob"
+          },
+          {
+            "winner": "Kevin",
+            "loser": "Ryan"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Missi-Me"
+          },
+          {
+            "winner": "Amanda",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Anthony"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Orange Man"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Blood",
+            "loser": "Tim"
+          },
+          {
+            "winner": "Owl Box",
+            "loser": "Kevin"
+          },
+          {
+            "winner": "Amanda",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Marc"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Blood",
+            "loser": "Owl Box"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Amanda"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Zorn"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Blood"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "Owl Box"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Owl Box",
+            "loser": "Kevin"
+          }
+        ],
+        "round_6": [
+          {
+            "winner": "Kevin",
+            "loser": "Amanda"
+          },
+          {
+            "winner": "Owl Box",
+            "loser": "Marc"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Kevin",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Keely"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Kevin",
+            "loser": "Hip"
+          },
+          {
+            "winner": "Jarrod",
+            "loser": "Tim"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Ryan"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Riley"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Hip",
+            "loser": "Orange Man"
+          },
+          {
+            "winner": "Jarrod",
+            "loser": "Missi-Me"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Rod of Iron"
+          },
+          {
+            "winner": "Riley",
+            "loser": "Clevis Bergrady"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Orange Man",
+            "loser": "Peaches"
+          },
+          {
+            "winner": "Hip",
+            "loser": "Anthony"
+          },
+          {
+            "winner": "Jarrod",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Missi-Me",
+            "loser": "Bloom Dragoon"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Paul"
+          },
+          {
+            "winner": "Rod of Iron",
+            "loser": "Rob"
+          },
+          {
+            "winner": "Clevis Bergrady",
+            "loser": "Tiff"
+          },
+          {
+            "winner": "Riley",
+            "loser": "Alex"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Hip",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Jarrod",
+            "loser": "Bumberbee"
+          },
+          {
+            "winner": "Bloom Dragoon",
+            "loser": "Ume"
+          },
+          {
+            "winner": "Paul",
+            "loser": "Space Spice"
+          },
+          {
+            "winner": "Rod of Iron",
+            "loser": "Clover"
+          },
+          {
+            "winner": "Clevis Bergrady",
+            "loser": "Renee"
+          },
+          {
+            "winner": "Riley",
+            "loser": "Jesse"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2022_June",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Kim",
+            "loser": "Heavan"
+          },
+          {
+            "winner": "The Shadow",
+            "loser": "Orange Man"
+          },
+          {
+            "winner": "Rob",
+            "loser": "Ume"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Kim",
+            "loser": "Mean as Human"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Johnnie"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Smelly Zelly"
+          },
+          {
+            "winner": "Evan",
+            "loser": "Emily"
+          },
+          {
+            "winner": "The Shadow",
+            "loser": "Jeffrey Epstein"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Sam"
+          },
+          {
+            "winner": "Rob",
+            "loser": "Alex"
+          },
+          {
+            "winner": "Lady Chimera",
+            "loser": "Josh"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Kim",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Evan"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "The Shadow"
+          },
+          {
+            "winner": "Rob",
+            "loser": "Lady Chimera"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Kim",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Rob"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Kim",
+            "loser": "Zorn"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Kim",
+            "loser": "Blood"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Zorn"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Blood",
+            "loser": "Johnnie"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Blood",
+            "loser": "Rob"
+          },
+          {
+            "winner": "Johnnie",
+            "loser": "Marc"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Blood",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Johnnie",
+            "loser": "Emily"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Josh",
+            "loser": "Evan"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Sam"
+          },
+          {
+            "winner": "Emily",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Johnnie",
+            "loser": "The Shadow"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Josh",
+            "loser": "Alex"
+          },
+          {
+            "winner": "Sam",
+            "loser": "Jeffrey Epstein"
+          },
+          {
+            "winner": "Emily",
+            "loser": "Smelly Zelly"
+          },
+          {
+            "winner": "Johnnie",
+            "loser": "Mean as Human"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Josh",
+            "loser": "Heavan"
+          },
+          {
+            "winner": "Emily",
+            "loser": "Orange Man"
+          },
+          {
+            "winner": "Johnnie",
+            "loser": "Ume"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2022_May",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Luna",
+            "loser": "Megan"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Jackie Daytona"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Joslin"
+          },
+          {
+            "winner": "Jared",
+            "loser": "Eli`"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Jeff"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Luna",
+            "loser": "Amanda"
+          },
+          {
+            "winner": "Kiara",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Marc",
+            "loser": "Rich"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Jesse"
+          },
+          {
+            "winner": "Jared",
+            "loser": "Wren"
+          },
+          {
+            "winner": "Kim",
+            "loser": "Lee"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Hip"
+          },
+          {
+            "winner": "Rod",
+            "loser": "Matthew"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Luna",
+            "loser": "Kiara"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Marc"
+          },
+          {
+            "winner": "Kim",
+            "loser": "Jared"
+          },
+          {
+            "winner": "Rod",
+            "loser": "Zorn"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Blood",
+            "loser": "Luna"
+          },
+          {
+            "winner": "Kim",
+            "loser": "Rod"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Kim",
+            "loser": "Blood"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Kim",
+            "loser": "Marc"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Marc",
+            "loser": "Blood"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Marc",
+            "loser": "Luna"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Marc",
+            "loser": "Rod"
+          },
+          {
+            "winner": "Luna",
+            "loser": "Rich"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Marc",
+            "loser": "Kiara"
+          },
+          {
+            "winner": "Rich",
+            "loser": "Amanda"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Marc",
+            "loser": "Megan"
+          },
+          {
+            "winner": "Kiara",
+            "loser": "Jackie Daytona"
+          },
+          {
+            "winner": "Rich",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Amanda",
+            "loser": "Jared"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Megan",
+            "loser": "Hip"
+          },
+          {
+            "winner": "Jackie Daytona",
+            "loser": "Joslin"
+          },
+          {
+            "winner": "Rich",
+            "loser": "Eli`"
+          },
+          {
+            "winner": "Amanda",
+            "loser": "Keely"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Megan",
+            "loser": "Matthew"
+          },
+          {
+            "winner": "Jackie Daytona",
+            "loser": "Lee"
+          },
+          {
+            "winner": "Joslin",
+            "loser": "Wren"
+          },
+          {
+            "winner": "Eli`",
+            "loser": "Jesse"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Jeff"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2022_April",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Blood",
+            "loser": "Amy"
+          },
+          {
+            "winner": "Matt",
+            "loser": "Craig"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Elaine"
+          },
+          {
+            "winner": "Zach",
+            "loser": "Allie"
+          },
+          {
+            "winner": "Nick",
+            "loser": "Britney"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Michael"
+          },
+          {
+            "winner": "Ugly Joel",
+            "loser": "Hunter"
+          },
+          {
+            "winner": "Tom",
+            "loser": "Ugly Andrew"
+          },
+          {
+            "winner": "Mark",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Kim",
+            "loser": "Joseph Pike"
+          },
+          {
+            "winner": "Jeff",
+            "loser": "Im"
+          },
+          {
+            "winner": "Ryan^",
+            "loser": "Pants are these?"
+          },
+          {
+            "winner": "Josh",
+            "loser": "Adrian"
+          },
+          {
+            "winner": "Gorgeous Joel",
+            "loser": "Megan"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Blood",
+            "loser": "Alex"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Matt"
+          },
+          {
+            "winner": "Zach",
+            "loser": "Nick"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Ugly Joel"
+          },
+          {
+            "winner": "Tom",
+            "loser": "Ume"
+          },
+          {
+            "winner": "Kim",
+            "loser": "Mark"
+          },
+          {
+            "winner": "Jeff",
+            "loser": "Ryan^"
+          },
+          {
+            "winner": "Gorgeous Joel",
+            "loser": "Josh"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Blood",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Zach"
+          },
+          {
+            "winner": "Kim",
+            "loser": "Tom"
+          },
+          {
+            "winner": "Gorgeous Joel",
+            "loser": "Jeff"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Blood",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Gorgeous Joel",
+            "loser": "Kim"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Gorgeous Joel",
+            "loser": "Blood"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Gorgeous Joel",
+            "loser": "Blood"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Ugly Joel"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Ugly Joel",
+            "loser": "Kim"
+          }
+        ],
+        "round_6": [
+          {
+            "winner": "Kim",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Ugly Joel",
+            "loser": "Keely"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Zorn",
+            "loser": "Ryan^"
+          },
+          {
+            "winner": "Ugly Joel",
+            "loser": "Tom"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Ryan^",
+            "loser": "Zach"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Mark"
+          },
+          {
+            "winner": "Ugly Joel",
+            "loser": "Jeff"
+          },
+          {
+            "winner": "Tom",
+            "loser": "Pants are these?"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Ryan^",
+            "loser": "Amy"
+          },
+          {
+            "winner": "Mark",
+            "loser": "Ume"
+          },
+          {
+            "winner": "Ugly Joel",
+            "loser": "Nick"
+          },
+          {
+            "winner": "Pants are these?",
+            "loser": "Megan"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Amy",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Ryan^",
+            "loser": "Elaine"
+          },
+          {
+            "winner": "Mark",
+            "loser": "Allie"
+          },
+          {
+            "winner": "Ume",
+            "loser": "Michael"
+          },
+          {
+            "winner": "Ugly Joel",
+            "loser": "Ugly Andrew"
+          },
+          {
+            "winner": "Nick",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Pants are these?",
+            "loser": "Matt"
+          },
+          {
+            "winner": "Megan",
+            "loser": "Alex"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Elaine",
+            "loser": "Craig"
+          },
+          {
+            "winner": "Allie",
+            "loser": "Britney"
+          },
+          {
+            "winner": "Michael",
+            "loser": "Hunter"
+          },
+          {
+            "winner": "Jarrod",
+            "loser": "Joseph Pike"
+          },
+          {
+            "winner": "Pants are these?",
+            "loser": "Im"
+          },
+          {
+            "winner": "Megan",
+            "loser": "Adrian"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2022_March",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Ted",
+            "loser": "Amy"
+          },
+          {
+            "winner": "Ume",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "cheektavegas81",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Don"
+          },
+          {
+            "winner": "Jesse",
+            "loser": "Adrian"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Eli"
+          },
+          {
+            "winner": "Anna",
+            "loser": "Jessica"
+          },
+          {
+            "winner": "The Shadow",
+            "loser": "Tetris Master"
+          },
+          {
+            "winner": "Rob",
+            "loser": "Michael"
+          },
+          {
+            "winner": "Gorgeous Joel",
+            "loser": "Zorn"
+          },
+          {
+            "winner": "Richard",
+            "loser": "Raych (Late)"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Ted",
+            "loser": "Aisha"
+          },
+          {
+            "winner": "cheektavegas81",
+            "loser": "Ume"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Jesse",
+            "loser": "Jeff"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Publio"
+          },
+          {
+            "winner": "The Shadow",
+            "loser": "Anna"
+          },
+          {
+            "winner": "Rob",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Gorgeous Joel",
+            "loser": "Richard"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "cheektavegas81",
+            "loser": "Ted"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Jesse"
+          },
+          {
+            "winner": "Blood",
+            "loser": "The Shadow"
+          },
+          {
+            "winner": "Gorgeous Joel",
+            "loser": "Rob"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "cheektavegas81",
+            "loser": "Ryan"
+          },
+          {
+            "winner": "Gorgeous Joel",
+            "loser": "Blood"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Gorgeous Joel",
+            "loser": "cheektavegas81"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Gorgeous Joel",
+            "loser": "Zorn"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Zorn",
+            "loser": "cheektavegas81"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Zorn",
+            "loser": "Blood"
+          }
+        ],
+        "round_6": [
+          {
+            "winner": "Blood",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Ryan"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Keely",
+            "loser": "Ted"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Tetris Master"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Keely",
+            "loser": "Jesse"
+          },
+          {
+            "winner": "Ted",
+            "loser": "Anna"
+          },
+          {
+            "winner": "Tetris Master",
+            "loser": "Rob"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "The Shadow"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Keely",
+            "loser": "Richard"
+          },
+          {
+            "winner": "Anna",
+            "loser": "Publio"
+          },
+          {
+            "winner": "Tetris Master",
+            "loser": "Eli"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Ume"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Richard",
+            "loser": "Amy"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Anna",
+            "loser": "Don"
+          },
+          {
+            "winner": "Publio",
+            "loser": "Adrian"
+          },
+          {
+            "winner": "Eli",
+            "loser": "Jeff"
+          },
+          {
+            "winner": "Tetris Master",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Ume",
+            "loser": "Michael"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Aisha"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Jarrod",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Tetris Master",
+            "loser": "Jessica"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Raych (Late)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2022_February",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "Jeff",
+            "loser": "Wren"
+          },
+          {
+            "winner": "Adina",
+            "loser": "Hunter"
+          },
+          {
+            "winner": "Rachael",
+            "loser": "Chiara"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Ume"
+          },
+          {
+            "winner": "Milmil",
+            "loser": "Peach"
+          },
+          {
+            "winner": "Rachael D",
+            "loser": "Julia"
+          },
+          {
+            "winner": "Eric",
+            "loser": "Creo"
+          },
+          {
+            "winner": "November Champion Joy",
+            "loser": "Chloe"
+          },
+          {
+            "winner": "Leo",
+            "loser": "Mallory with a Y"
+          },
+          {
+            "winner": "Corey Baxter",
+            "loser": "Jojo"
+          },
+          {
+            "winner": "Riane",
+            "loser": "Josh"
+          },
+          {
+            "winner": "CorwinBee",
+            "loser": "Steven"
+          },
+          {
+            "winner": "The Shadow",
+            "loser": "Jess"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Blood",
+            "loser": "Jeff"
+          },
+          {
+            "winner": "Rachael",
+            "loser": "Adina"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Milmil"
+          },
+          {
+            "winner": "Eric",
+            "loser": "Rachael D"
+          },
+          {
+            "winner": "November Champion Joy",
+            "loser": "Mallorie"
+          },
+          {
+            "winner": "Leo",
+            "loser": "Corey Baxter"
+          },
+          {
+            "winner": "Kim",
+            "loser": "Riane"
+          },
+          {
+            "winner": "The Shadow",
+            "loser": "CorwinBee"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Blood",
+            "loser": "Rachael"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Eric"
+          },
+          {
+            "winner": "November Champion Joy",
+            "loser": "Leo"
+          },
+          {
+            "winner": "Kim",
+            "loser": "The Shadow"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Blood",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Kim",
+            "loser": "November Champion Joy"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Blood",
+            "loser": "Kim"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Kim",
+            "loser": "Blood"
+          },
+          {
+            "winner": "Kim",
+            "loser": "Blood"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Kim",
+            "loser": "November Champion Joy"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "November Champion Joy",
+            "loser": "Keely"
+          }
+        ],
+        "round_6": [
+          {
+            "winner": "November Champion Joy",
+            "loser": "Riane"
+          },
+          {
+            "winner": "Keely",
+            "loser": "The Shadow"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Riane",
+            "loser": "Rachael"
+          },
+          {
+            "winner": "The Shadow",
+            "loser": "Jeff"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Riane",
+            "loser": "Eric"
+          },
+          {
+            "winner": "Rachael",
+            "loser": "Ume"
+          },
+          {
+            "winner": "The Shadow",
+            "loser": "Jojo"
+          },
+          {
+            "winner": "Jeff",
+            "loser": "Leo"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Riane",
+            "loser": "Wren"
+          },
+          {
+            "winner": "Ume",
+            "loser": "Creo"
+          },
+          {
+            "winner": "Jojo",
+            "loser": "Rachael D"
+          },
+          {
+            "winner": "Jeff",
+            "loser": "Adina"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Wren",
+            "loser": "CorwinBee"
+          },
+          {
+            "winner": "Riane",
+            "loser": "Chiara"
+          },
+          {
+            "winner": "Ume",
+            "loser": "Corey Baxter"
+          },
+          {
+            "winner": "Creo",
+            "loser": "Mallorie"
+          },
+          {
+            "winner": "Rachael D",
+            "loser": "Chloe"
+          },
+          {
+            "winner": "Jojo",
+            "loser": "Milmil"
+          },
+          {
+            "winner": "Adina",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Jeff",
+            "loser": "Jess"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Chiara",
+            "loser": "Hunter"
+          },
+          {
+            "winner": "Ume",
+            "loser": "Peach"
+          },
+          {
+            "winner": "Creo",
+            "loser": "Julia"
+          },
+          {
+            "winner": "Jojo",
+            "loser": "Mallory with a Y"
+          },
+          {
+            "winner": "Jess",
+            "loser": "Steven"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tournament_id": "2022_January",
+    "bracket": {
+      "winners_bracket": {
+        "round_1": [
+          {
+            "winner": "The Shadow",
+            "loser": "Emily"
+          },
+          {
+            "winner": "Ume",
+            "loser": "Sam"
+          },
+          {
+            "winner": "Zach",
+            "loser": "Jake"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Adam",
+            "loser": "Jeff~"
+          },
+          {
+            "winner": "Chad McLargeHuge",
+            "loser": "Jes"
+          },
+          {
+            "winner": "Becky",
+            "loser": "Phil"
+          },
+          {
+            "winner": "Kim",
+            "loser": "Renee"
+          },
+          {
+            "winner": "Owl",
+            "loser": "Ryan"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Rod of Iron"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "The Shadow",
+            "loser": "Amanda"
+          },
+          {
+            "winner": "Ume",
+            "loser": "Zach"
+          },
+          {
+            "winner": "Keely",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Rich",
+            "loser": "Adam"
+          },
+          {
+            "winner": "Chad McLargeHuge",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Kim",
+            "loser": "Becky"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Owl"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Creo"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Ume",
+            "loser": "The Shadow"
+          },
+          {
+            "winner": "Rich",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Kim",
+            "loser": "Chad McLargeHuge"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Blood"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Rich",
+            "loser": "Ume"
+          },
+          {
+            "winner": "Zorn",
+            "loser": "Kim"
+          }
+        ],
+        "winners_finals": [
+          {
+            "winner": "Rich",
+            "loser": "Zorn"
+          }
+        ],
+        "grand_finals": [
+          {
+            "winner": "Kim",
+            "loser": "Rich"
+          },
+          {
+            "winner": "Kim",
+            "loser": "Rich"
+          }
+        ]
+      },
+      "losers_bracket": {
+        "losers_finals": [
+          {
+            "winner": "Kim",
+            "loser": "Zorn"
+          }
+        ],
+        "losers_semifinals": [
+          {
+            "winner": "Kim",
+            "loser": "Ume"
+          }
+        ],
+        "round_6": [
+          {
+            "winner": "Kim",
+            "loser": "Keely"
+          },
+          {
+            "winner": "Ume",
+            "loser": "Blood"
+          }
+        ],
+        "round_5": [
+          {
+            "winner": "Keely",
+            "loser": "Josh"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Ryan"
+          }
+        ],
+        "round_4": [
+          {
+            "winner": "Keely",
+            "loser": "Creo"
+          },
+          {
+            "winner": "Josh",
+            "loser": "The Shadow"
+          },
+          {
+            "winner": "Blood",
+            "loser": "Lady Chimera"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Chad McLargeHuge"
+          }
+        ],
+        "round_3": [
+          {
+            "winner": "Creo",
+            "loser": "Owl"
+          },
+          {
+            "winner": "Josh",
+            "loser": "Jeff~"
+          },
+          {
+            "winner": "Lady Chimera",
+            "loser": "Jes"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Amanda"
+          }
+        ],
+        "round_2": [
+          {
+            "winner": "Creo",
+            "loser": "Emily"
+          },
+          {
+            "winner": "Owl",
+            "loser": "Jake"
+          },
+          {
+            "winner": "Josh",
+            "loser": "Becky"
+          },
+          {
+            "winner": "Jeff~",
+            "loser": "Jarrod"
+          },
+          {
+            "winner": "Jes",
+            "loser": "Adam"
+          },
+          {
+            "winner": "Lady Chimera",
+            "loser": "Phil"
+          },
+          {
+            "winner": "Ryan",
+            "loser": "Zach"
+          },
+          {
+            "winner": "Amanda",
+            "loser": "Rod of Iron"
+          }
+        ],
+        "round_1": [
+          {
+            "winner": "Jake",
+            "loser": "Sam"
+          },
+          {
+            "winner": "Phil",
+            "loser": "Renee"
+          }
+        ]
+      }
+    }
+  }
+]
